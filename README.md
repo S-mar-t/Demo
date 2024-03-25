@@ -1,3 +1,4 @@
 # Demo
-This is my first git repository.<br>
-Author - Zohaib Ahmed
+This is my first git repository. 
+<br>
+Author - Zohaib (School)
